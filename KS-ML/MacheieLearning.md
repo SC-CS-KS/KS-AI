@@ -1,3 +1,0 @@
-
-# [What Is](WhatIs.md)
-
