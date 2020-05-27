@@ -1,15 +1,20 @@
-# AI
+AI
+=======
+
+## [What is AI](WhatIs.md)
+
+## [AI 算法](AI-Algos/README.md)
+
+## [深度学习](DL/README.md)
+
+## [知识图谱](KnowledgeGraph/README.md)
+
+## 神经网络
+
+## 模式匹配
+
+## 自然语言处理
+
+## 专家系统
 
 
-* [Machine Learning](ML/README.md)
-* [Deep Learning](DL/README.md)
-
-
-* [Knowledge Graph（KG）](internet/knowledge-graph/README.md)
-
-## Project
-
-
-## Resources
-* [Machine Learning Engineer](https://github.com/clone95/Virgilio/tree/master/Careers/Machine%20Learning%20Engineer%20Career%20Path)
-* [机器学习资料](https://yq.aliyun.com/articles/43089?spm=a2c4e.11155435.0.0.50f91373xYdePE)
